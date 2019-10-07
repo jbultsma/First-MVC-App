@@ -1,0 +1,80 @@
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\bin\Debug\netcoreapp2.1\FirstMVCApp.deps.json
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\bin\Debug\netcoreapp2.1\FirstMVCApp.runtimeconfig.json
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\bin\Debug\netcoreapp2.1\FirstMVCApp.runtimeconfig.dev.json
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\bin\Debug\netcoreapp2.1\FirstMVCApp.dll
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\bin\Debug\netcoreapp2.1\FirstMVCApp.pdb
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\bin\Debug\netcoreapp2.1\FirstMVCApp.Views.dll
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\bin\Debug\netcoreapp2.1\FirstMVCApp.Views.pdb
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.csprojAssemblyReference.cache
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.csproj.CoreCompileInputs.cache
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.RazorAssemblyInfo.cache
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.RazorAssemblyInfo.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.AssemblyInfoInputs.cache
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.AssemblyInfo.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.TagHelpers.input.cache
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.TagHelpers.output.cache
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.RazorCoreGenerate.cache
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Fish.g.cshtml.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Registration.g.cshtml.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Result.g.cshtml.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Validation\ControllerSide.g.cshtml.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Validation\DataAno.g.cshtml.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Validation\Error.g.cshtml.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Validation\Html5.g.cshtml.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Validation\User.g.cshtml.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.RazorTargetAssemblyInfo.cache
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.RazorTargetAssemblyInfo.cs
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.Views.pdb
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.dll
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.pdb
+C:\Dev\Grand Circus\July2019ClassRepo\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.csproj.CopyComplete
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\bin\Debug\netcoreapp2.1\FirstMVCApp.deps.json
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\bin\Debug\netcoreapp2.1\FirstMVCApp.runtimeconfig.json
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\bin\Debug\netcoreapp2.1\FirstMVCApp.runtimeconfig.dev.json
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\bin\Debug\netcoreapp2.1\FirstMVCApp.dll
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\bin\Debug\netcoreapp2.1\FirstMVCApp.pdb
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\bin\Debug\netcoreapp2.1\FirstMVCApp.Views.dll
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\bin\Debug\netcoreapp2.1\FirstMVCApp.Views.pdb
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.csprojAssemblyReference.cache
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.csproj.CoreCompileInputs.cache
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.RazorAssemblyInfo.cache
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.RazorAssemblyInfo.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.AssemblyInfoInputs.cache
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.AssemblyInfo.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.TagHelpers.input.cache
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.TagHelpers.output.cache
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.RazorCoreGenerate.cache
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Fish.g.cshtml.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Registration.g.cshtml.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Result.g.cshtml.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Validation\ControllerSide.g.cshtml.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Validation\DataAno.g.cshtml.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Validation\Error.g.cshtml.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Validation\Html5.g.cshtml.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Validation\User.g.cshtml.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.RazorTargetAssemblyInfo.cache
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.RazorTargetAssemblyInfo.cs
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.Views.pdb
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.dll
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.pdb
+C:\Dev\GC Graded Work\Labs\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.1\FirstMVCApp.csproj.CopyComplete
