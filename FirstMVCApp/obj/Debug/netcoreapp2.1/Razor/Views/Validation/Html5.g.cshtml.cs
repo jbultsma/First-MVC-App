@@ -54,7 +54,7 @@ using FirstMVCApp.Models;
             WriteLiteral("<h1>Html 5 Form Demo</h1>\r\n\r\n");
             EndContext();
             BeginContext(29, 243, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6c3b90d1e70f4a5886378bc63b44d2b4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6c13e1606e284c60aaa09007354e3fd1", async() => {
                 BeginContext(35, 230, true);
                 WriteLiteral("\r\n    <h2>Age</h2>\r\n    <input min=\"18\" max=\"99\" type=\"number\"/>\r\n\r\n    <h2>Name</h2>\r\n    <input type=\"text\" required/>\r\n\r\n    <h2>Password</h2>\r\n    <input type=\"password\" maxlength=\"5\" required/>\r\n\r\n    <input type=\"submit\"/>\r\n");
                 EndContext();

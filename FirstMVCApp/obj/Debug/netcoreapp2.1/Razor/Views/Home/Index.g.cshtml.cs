@@ -56,7 +56,7 @@ using FirstMVCApp.Models;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             BeginContext(0, 74, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3e22110ebb39413387ca99d9126c6cf6", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9501d7ec628f4a66bebc391b719b8c27", async() => {
                 BeginContext(51, 19, true);
                 WriteLiteral("<p>Registration</p>");
                 EndContext();
@@ -90,7 +90,7 @@ using FirstMVCApp.Models;
     ");
             EndContext();
             BeginContext(556, 69, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4c176af5a8f548c0a4ef20dc8cc8945b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "97d706b5abe94b7e94cdf6158b18e4cf", async() => {
                 BeginContext(606, 15, true);
                 WriteLiteral("<li>Html 5</li>");
                 EndContext();
@@ -114,7 +114,7 @@ using FirstMVCApp.Models;
             WriteLiteral("\r\n    ");
             EndContext();
             BeginContext(631, 81, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d838f76ac25a47218c59cbc1fc6cb2b1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e610ead1c6a7472d89bb7f166a8812d7", async() => {
                 BeginContext(683, 25, true);
                 WriteLiteral("<li>Data Annotations</li>");
                 EndContext();
@@ -138,7 +138,7 @@ using FirstMVCApp.Models;
             WriteLiteral("\r\n    ");
             EndContext();
             BeginContext(718, 123, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "84ab78eae84b4a8daeba0b3e91d255ac", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8f5958032cb148899654ff309fc0bd46", async() => {
                 BeginContext(777, 60, true);
                 WriteLiteral("<li>C# Valdiation (in controllers and sometimes models)</li>");
                 EndContext();
